@@ -1,0 +1,13 @@
+{
+  "name": "week2-assignment",
+  "version": "1.0.0",
+  "description": "This project is a RESTful API built with Express.js to manage a product catalog. It includes CRUD operations, middleware for logging, authentication, and validation, as well as error handling and advanced features like filtering, pagination, search, and statistics.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
